@@ -1,7 +1,7 @@
 {
     "name": "Hermit Normal",
     "description": "A normal Hermit NFT, featuring the iconic Logo.",
-    "image": "https://raw.githubusercontent.com/YourUsername/HermitNFTMetadata/main/images/Logo.jpg",
+    "image": "https://raw.githubusercontent.com/HermitMatrixNetwork/Media/main/Logo.jpg",
     "attributes": [
         {
             "trait_type": "Rarity",
