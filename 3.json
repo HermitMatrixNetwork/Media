@@ -1,0 +1,15 @@
+{
+    "name": "Hermit Common",
+    "description": "A common Hermit NFT, featuring the iconic Logo.",
+    "image": "https://raw.githubusercontent.com/HermitMatrixNetwork/Media/main/Logo.jpg",
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "Common"
+        },
+        {
+            "trait_type": "Type",
+            "value": "Hermit"
+        }
+    ]
+}
