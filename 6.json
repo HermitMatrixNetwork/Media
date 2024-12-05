@@ -1,0 +1,15 @@
+{
+    "name": "Hermit Uncommon",
+    "description": "An uncommon Hermit NFT, featuring the iconic Logo.",
+    "image": "https://raw.githubusercontent.com/HermitMatrixNetwork/Media/main/Logo.jpg",
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "Uncommon"
+        },
+        {
+            "trait_type": "Type",
+            "value": "Hermit"
+        }
+    ]
+}
